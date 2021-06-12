@@ -1,4 +1,4 @@
-package com.example.ec.explorecali.domain;
+package com.example.ec.domain;
 
 public enum Difficulty {
     Easy, Medium, Difficult, Varies;
